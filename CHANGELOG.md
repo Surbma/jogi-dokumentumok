@@ -1,5 +1,28 @@
 # Changelog
 
+## 17.0
+
+**Kiadás dátuma: 2025-12-01**
+
+### Általános Szerződési Feltételek - Optimalizálás | 2.0
+
+- Vállalkozó helyett Szolgáltató használata egységesen.
+- Általános rendelkezés hozzáadása a nem részletezett kérdésekben.
+
+### Általános Szerződési Feltételek - Üzemeltetés | 15.0
+
+- Mostantól ez a dokumentum kifejezetten csak az üzemeltetés szolgáltatásra vonatkozik.
+- A honlapszolgáltatáshoz tartozó pontok törlése.
+- Kisebb formai igazítások, hogy egységes formázást kapjanak a dokumentumok.
+
+### Általános Szerződési Feltételek - Honlapszolgáltatás | 1.0
+
+- Ez a dokumentum kifejezetten csak a honlapszolgáltatásra vonatkozik.
+
+### Vállalkozási Keretszerződés | 2.1
+
+- Kisebb formai igazítások, hogy egységes formázást kapjanak a dokumentumok.
+
 ## 16.1
 
 **Kiadás dátuma: 2025-12-01**
@@ -13,9 +36,7 @@
 
 **Kiadás dátuma: 2025-12-01**
 
-### Általános Szerződési Feltételek - Optimalizálás
-
-#### Dokumentum verzió: 1.0
+### Általános Szerződési Feltételek - Optimalizálás | 1.0
 
 - Első verzió hozzáadása.
 

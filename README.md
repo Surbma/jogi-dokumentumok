@@ -28,3 +28,97 @@ A jogi dokumentumok három formátumban készülnek:
 
 A Markdown és Portable Document Format konvertálásához a következő online szolgáltatást használjuk:
 https://www.markdowntopdf.com/
+
+## Formázási szabványok
+
+A jogi dokumentumok egységes megjelenése érdekében az alábbi formázási szabványokat kell követni minden dokumentum szerkesztésekor. A referencia dokumentum: `md/aszf-premiumwp-optimalizalas.md`
+
+### Dokumentum struktúra
+
+| Elem | Szabvány | Példa |
+|------|----------|-------|
+| **Dokumentum cím** | H1 címsor (`#`) | `# Általános Szerződési Feltételek - Optimalizálás` |
+| **Verzió metaadat** | Félkövér, pipe-szeparált, 2. sor | `**VERZIÓ: 1.0 \| UTOLSÓ FRISSÍTÉS: 2025.12.01.**` |
+| **Fő fejezetek** | H2 címsor (`##`) számmal + pont | `## 1. Szerződő felek` |
+| **Alfejezetek** | H3 címsor (`###`) hierarchikus számozás | `### 1.1. Vállalkozó` |
+| **Al-alfejezetek** | H4 címsor (`####`) 3-szintű számozás | `#### 2.3.1. Extra tuning` |
+
+### Fejezet számozás
+
+| Szabály | Leírás |
+|---------|--------|
+| **Formátum** | Szám + pont (NEM zárójelezve!) |
+| **H2 fejezetek** | Egyszintű: `1.`, `2.`, `3.` |
+| **H3 alfejezetek** | Kétszintű: `1.1.`, `1.2.`, `2.1.` |
+| **H4 al-alfejezetek** | Háromszintű: `2.3.1.`, `2.3.2.` |
+
+**Fontos:** Zárójelek használata TILOS a számozásban! ❌ `1.)` ✅ `1.`
+
+### Szövegformázás
+
+| Elem | Szabvány | Példa |
+|------|----------|-------|
+| **Kiemelés/Címkék** | Félkövér (`**szöveg**`) | `**Álomvilág Kft.**` |
+| **Lista címkék** | Félkövér címke + kettőspont | `- **Székhely:** 7761 Kozármisleny...` |
+| **Jogi kereszthivatkozás** | Pont jelölés | `4.1. pontban` |
+| **Százalék értékek** | Nincs szóköz a `%` előtt | `50%` |
+| **Pénznem értékek** | Magyar formátum | `15.000 Ft` |
+
+### Dátum és verzió formátumok
+
+| Elem | Formátum | Példa |
+|------|----------|-------|
+| **Dátum formátum** | `ÉÉÉÉ.HH.NN.` (záró ponttal) | `2025.12.01.` |
+| **Verzió formátum** | Fő.Mellék | `1.0`, `14.1`, `2.1` |
+
+### Lista formázás
+
+| Típus | Szabvány | Példa |
+|-------|----------|-------|
+| **Felsorolás** | Kötőjel (`-`) | `- Első elem` |
+| **Címkézett lista** | Félkövér címke + kettőspont + érték | `- **Telefon:** +36 70 209 3432` |
+| **Egyszerű lista** | Sima szöveg elemek | `- Domain DNS kezelés` |
+
+### Térköz és elrendezés
+
+| Szabály | Leírás |
+|---------|--------|
+| **Fejezet térköz** | Üres sor minden címsor előtt és után |
+| **Lista térköz** | Nincs üres sor a lista elemek között |
+| **Bekezdés térköz** | Egy üres sor a bekezdések között |
+
+### Jogi terminológia
+
+A felek megnevezése a dokumentum típusától függően változhat:
+
+| Dokumentum típus | Szolgáltató | Ügyfél |
+|------------------|-------------|--------|
+| **ÁSzF - Üzemeltetés** | Szolgáltató | Előfizető |
+| **ÁSzF - Optimalizálás** | Vállalkozó | Megrendelő |
+| **VKSz** | Vállalkozó | Megrendelő |
+
+### Dokumentum sablon
+
+Minden új dokumentum az alábbi struktúrát kövesse:
+
+```markdown
+# [Dokumentum típus] - [Altípus]
+**VERZIÓ: X.X | UTOLSÓ FRISSÍTÉS: ÉÉÉÉ.HH.NN.**
+
+[Opcionális bevezető bekezdés]
+
+## 1. Első fő fejezet
+
+### 1.1. Első alfejezet
+
+- **Címke:** Érték
+- **Másik címke:** Másik érték
+
+### 1.2. Második alfejezet
+
+[Tartalom...]
+
+## 2. Második fő fejezet
+
+[Tartalom...]
+```
