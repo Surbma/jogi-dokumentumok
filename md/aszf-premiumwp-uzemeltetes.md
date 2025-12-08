@@ -1,5 +1,5 @@
 # Általános Szerződési Feltételek - Üzemeltetés
-**VERZIÓ: 15.0 | UTOLSÓ FRISSÍTÉS: 2025.12.01.**
+**VERZIÓ: 15.1 | UTOLSÓ FRISSÍTÉS: 2025.12.01.**
 
 Jelen szerződésben nem részletezett kérdésekben, illetve vitás esetekben a Ptk. vonatkozó rendelkezéseit kell alkalmazni, egyéb esetben a Pécsi Városi Bíróság illetékes.
 
@@ -23,7 +23,7 @@ A Megrendelés leadásánál megadott természetes és/vagy jogi személy. Cége
 
 A megrendelés elektronikus úton megkötött szerződésnek minősül, amely fizetési kötelezettséggel jár és amelyre az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény 5. és 6. §-ában foglaltak megfelelően irányadóak. A szerződés a távollevők között kötött szerződésekről szóló 1999. (II.5.) Kormányrendelet hatálya alá tartozik.
 
-Előfizető a Megrendelés leadásával elismeri, hogy az itt leírt Általános Szerződési Feltételeket elolvasta, megértette és annak minden pontját elfogadja és betartja. Céges megrendelés esetén ez a kötelezettség a Megrendelésben megadott cég minden munkatársára vonatkozik, aki érintett a Szolgáltatás bármilyen szintű közvetlen és közvetett igánybevételében.
+Előfizető a Megrendelés leadásával elismeri, hogy az itt leírt Általános Szerződési Feltételeket elolvasta, megértette és annak minden pontját elfogadja és betartja. Céges megrendelés esetén ez a kötelezettség a Megrendelésben megadott cég minden munkatársára vonatkozik, aki érintett a Szolgáltatás bármilyen szintű közvetlen és közvetett igénybevételében.
 
 Előfizető a Megrendelés leadásával elismeri, hogy betöltötte 18. életkorát és jogosult eljárni és szerződést kötni a Megrendelésben megadott jogi személy vagy cég nevében.
 

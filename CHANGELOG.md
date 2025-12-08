@@ -1,5 +1,24 @@
 # Changelog
 
+## 18.0
+
+**Kiadás dátuma: 2025-12-01**
+
+### Általános Szerződési Feltételek - Optimalizálás | 3.0
+
+- Elektronikus úton megkötött szerződés meghatározása.
+- Megrendelő ÁSzF elfogadási kötelezettsége.
+- Megrendelő a 18. életkorának a betöltését elismeri.
+- Biztonsági mentés hozzádása.
+- Szolgáltató felelősségvállalása és további kötelezettségek meghatározása.
+- Fizetős bővítményekkel kapcsolatos kötelezettségvállalás meghatározása.
+- Referencia kezelés meghatározása.
+- GDPR megfelelés meghatározása.
+
+### Általános Szerződési Feltételek - Üzemeltetés | 15.1
+
+- Elírás javítása.
+
 ## 17.0
 
 **Kiadás dátuma: 2025-12-01**
