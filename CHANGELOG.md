@@ -1,5 +1,13 @@
 # Changelog
 
+## 19.2
+
+**Kiadás dátuma: 2025-12-09**
+
+### EGYÉB
+
+- Az md mappa átnevezése docs-ra.
+
 ## 19.1
 
 **Kiadás dátuma: 2025-12-08**
