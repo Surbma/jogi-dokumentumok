@@ -1,5 +1,13 @@
 # Changelog
 
+## 20.0
+
+**Kiadás dátuma: 2025-12-09**
+
+### Süti (cookie) szabályzat | 1.0
+
+- Első verzió hozzáadása.
+
 ## 19.2
 
 **Kiadás dátuma: 2025-12-09**
