@@ -1,5 +1,5 @@
 # Általános Szerződési Feltételek - Optimalizálás
-**VERZIÓ: 5.0 | UTOLSÓ FRISSÍTÉS: 2025.12.10.**
+**VERZIÓ: 6.0 | UTOLSÓ FRISSÍTÉS: 2025.12.11.**
 
 Jelen szerződésben nem részletezett kérdésekben, illetve vitás esetekben a Ptk. vonatkozó rendelkezéseit kell alkalmazni, egyéb esetben a Pécsi Városi Bíróság illetékes.
 
@@ -214,6 +214,8 @@ A teljesítést követő 30 naptári napig a Szolgáltató díjmentesen javítja
 
 A Megrendelő köteles a munkák megkezdése előtt teljes biztonsági mentést készíteni a weboldalról és az adatbázisról.
 
+Az adatmentést megfelelő biztonsággal tárolja a Szolgáltatás és az azt követő támogatási időszak alatt, ezt követően pedig törli a saját tárhelyén.
+
 ### 9.2. Együttműködési kötelezettség
 
 A Megrendelő köteles:
@@ -255,6 +257,12 @@ A titoktartási kötelezettség a szerződés megszűnését követően is, idő
 ### 11.3 Referencia
 
 Megrendelő nem oszthatja meg a weboldalt vagy annak részleteit referenciaként a weboldalain és üzleti közösségi csatornáin Megrendelő előzetes írásbeli engedélye nélkül.
+
+### 11.4 Adatkezelés
+
+A személyes azonosításra alkalmas adatokat Szolgáltató a lehető legnagyobb gondossággal és biztonsággal kezeli.
+
+Felek a Szerződés teljesítése során tudomásukra jutott személyes azonosításra alkalmas adatokat a mindenkor hatályos adatvédelmi jogszabályoknak megfelelően kezelik, különösen, de nem kizárólagosan a Természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról szóló Európai Parlament és a Tanács 2016/679 Rendelete (GDPR), az Információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény szerint.
 
 ## 12. A szerződés módosítása és megszűnése
 

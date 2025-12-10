@@ -1,11 +1,9 @@
 # Adatkezelési tájékoztató
-**VERZIÓ: 1.0 | UTOLSÓ FRISSÍTÉS: 2025.12.09.**
-
-Felek a Szerződés teljesítése során tudomásukra jutott személyes azonosításra alkalmas adatokat a mindenkor hatályos adatvédelmi jogszabályoknak megfelelően kezelik, különösen, de nem kizárólagosan a Természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról szóló Európai Parlament és a Tanács 2016/679 Rendelete (GDPR), az Információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény szerint.
+**VERZIÓ: 2.0 | UTOLSÓ FRISSÍTÉS: 2025.12.11.**
 
 A személyes azonosításra alkalmas adatokat Szolgáltató a lehető legnagyobb gondossággal és biztonsággal kezeli.
 
-Az adatmentést megfelelő biztonsággal tárolja a Szolgáltatás és az azt követő támogatási időszak alatt, ezt követően pedig törli a saját tárhelyén.
+Felek a Szerződés teljesítése során tudomásukra jutott személyes azonosításra alkalmas adatokat a mindenkor hatályos adatvédelmi jogszabályoknak megfelelően kezelik, különösen, de nem kizárólagosan a Természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról szóló Európai Parlament és a Tanács 2016/679 Rendelete (GDPR), az Információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény szerint.
 
 ## Adatkezelés jogalapja
 

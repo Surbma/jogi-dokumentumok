@@ -1,5 +1,18 @@
 # Changelog
 
+## 22.0
+
+**Kiadás dátuma: 2025-12-11**
+
+### Adatkezelési tájékoztató | 2.0
+
+- Adatmentés törlése.
+
+### Általános Szerződési Feltételek - Optimalizálás | 6.0
+
+- Adatmentés kiegészítése.
+- Titoktartás kiegészítése az adatkezeléssel.
+
 ## 21.0
 
 **Kiadás dátuma: 2025-12-10**
